@@ -1,0 +1,340 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+#outer{
+	width:1480px;
+	height: 2845px;
+	background: #D9B29C;
+}
+.header{
+	width: 1480;
+	height: 1000px;
+	background-image: url("img/DSCF9161.JPG");
+	background-size: 1480px;
+}
+.headerreal{
+	width: 1200px;
+	height: 155px;
+/*	background: #8C0303;*/
+	margin: auto;
+	padding-top: 50px;
+	
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	background: #024949;
+	border-radius: 10px;
+	float: left;
+	margin-left: 100px;
+}
+.menu{
+	width: 800px;
+	height: 77px;
+	background:;
+	float: right;
+	margin-right: 100px;
+	padding-top:30px;
+}
+.menu a{ 
+	font-size: 20px;
+	color:#024949;
+	text-decoration:none;
+	margin-left: 45px;
+	font-family: 'Dela Gothic One', cursive;
+}
+.main1{
+	width: 500px;
+	height: 70px;
+	background:#024949;
+	margin-top: 650px;
+	margin-left: 900px;
+	padding-top:10px;
+}
+.main1 h{
+	font-size: 40px;
+	color: antiquewhite;
+	font-family: 'Dela Gothic One', cursive;
+	margin-left: 56px;
+}
+.main2{
+	width: 1480px;
+	height: 250px;
+	background:#024949;
+	padding-top: 90px;
+	
+}
+.main2con1{
+	width: 350px;
+	height: 190px;
+	background:#A66249;
+	background-image: url("img/IMG_20210318_053650_028.jpg");
+	background-size: 350px;
+	margin-left: 200px;
+	float: left;
+	border-radius: 10px;
+}
+.main2con2{
+	width: 500px;
+	height: 190px;
+/*	background:;*/
+	float: right;
+	margin-right: 200px
+}
+.main2con2 h1{
+	font-size: 30px;
+	color: antiquewhite;
+	font-family: 'Dela Gothic One', cursive;
+	margin-left: 90px;
+	margin-bottom: 10px
+}
+.main2con2 p{
+	font-size: 13px;
+	font-family: 'Nunito', sans-serif;
+	text-align: center;
+	color: antiquewhite;
+}
+.main3{
+	width: 1480px;
+	height: 500px;
+	background:#8C0303;
+	margin-top: 15px;
+	padding-top:15px;
+}
+.main3 h2{
+	font-size: 40px;
+	font-family: 'Dela Gothic One', cursive;
+	color:#D9B29C;
+	text-align: center;	
+	padding:20px;
+}
+.main3main{
+	width: 1480px;
+	height: 300px;
+/*	background:#D9B29C;*/
+	float: left;
+	margin-top:20px
+}
+.main3con1{
+	width:185px;
+	height: 280px;
+/*	background:white;*/
+	float: left;
+	background-image:url("img/P8k5m12p.png");
+	background-size: 200px;
+	background-repeat:no-repeat;
+	padding-top:20px;
+	border-radius: 10px;
+}
+.main3con2{
+	width:185px;
+	height: 280px;
+/*	background:white;*/
+	float: left;
+	margin-left: 30px;
+	background-image:url("img/P8k5m12p.png");
+	background-size: 200px;
+	background-repeat:no-repeat;
+	padding-top:20px;
+}
+.main3con3{
+	width:185px;
+	height: 280px;
+/*	background:white;*/
+	float: left;
+	margin-left: 30px;
+	background-image:url("img/P8k5m12p.png");
+	background-size: 200px;
+	background-repeat:no-repeat;
+	padding-top:20px;
+}
+.main3con4{
+	width:185px;
+	height: 280px;
+/*	background:white;*/
+	float: left;
+	margin-left: 30px;
+	background-image:url("img/P8k5m12p.png");
+	background-size: 200px;
+	background-repeat:no-repeat;
+	padding-top:20px;
+}
+.main3con5{
+	width:185px;
+	height: 280px;
+/*	background:white;*/
+	float: left;
+	margin-left: 30px;
+	background-image:url("img/P8k5m12p.png");
+	background-size: 200px;
+	background-repeat:no-repeat;
+	padding-top:20px;
+}
+.main3con6{
+	width:185px;
+	height: 280px;
+/*	background:white;*/
+	float: left;
+	margin-left: 30px;
+	background-image:url("img/P8k5m12p.png");
+	background-size: 200px;
+	background-repeat:no-repeat;
+	padding-top:20px;
+}
+.main3con7{
+	width:185px;
+	height: 280px;
+/*	background:white;*/
+	float: left;
+	margin-left: 30px;
+	background-image:url("img/P8k5m12p.png");
+	background-repeat:no-repeat;
+	background-size: 200px;
+	padding-top:20px;
+}
+.main3 h3{
+	font-size: 17px;
+	font-family: 'Dela Gothic One', cursive;
+	color:#D9B29C;
+	text-align: center;
+	padding-top:200px;
+}
+.main3 p{
+	font-size: 19px;
+	font-family: 'Nunito', sans-serif;
+	color:#D9B29C;
+	text-align: center;
+	padding-top:2px
+}
+.main4{
+	width:1480px;
+	height: 300px;
+	background:#8C0303;
+	margin-top:20px;
+	padding-top: 100px;
+	
+}
+.main4con1{
+	width: 300px;
+	height: 200px;
+	background:#D9B29C;
+	float:left;
+	background-image:url("img/DSCF9398.JPG");
+	background-size: 301px;
+	margin-left: 100px;
+	border-radius: 10px;
+}
+.main4con2{
+	width: 300px;
+	height: 200px;
+	background:#D9B29C;
+	float:left;
+	margin-left:20px;
+	background-image:url("img/DSC00791.jpg");
+	background-size: 300px;
+	border-radius: 10px;
+}
+.main4con3{
+	width: 600px;
+	height: 200px;
+	background:;
+	float:right;
+	margin-right: 100px;
+}
+.main4con3 h4{
+	font-size: 40px;
+	font-family: 'Dela Gothic One', cursive;
+	color:#D9B29C;
+	text-align: center;	
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.main4con3 p4{
+	font-size: 17px;
+	font-family: 'Nunito', sans-serif;
+	color:#D9B29C;
+	text-align: center;
+}
+.main5{
+	width:1480px;
+	height:300px;
+	background:;
+	margin-top:20px;
+	
+}
+.main5con1{
+	width:400px;
+	height:300px;
+	background:#F8E2E3;
+	float:left;
+	margin-left:20px;
+}
+.main5con1 h6{
+	font-size: 70px;
+	font-family:'Dela Gothic One', cursive;
+	color:#D9B29C;
+	text-align: center;
+	margin-top:90px
+}
+.main5con2{
+	width:400px;
+	height:250px;
+	background:#F8E2E3;
+	float:right;
+	background-image:url("img/DSC00981.JPG");
+	background-size: 451px;
+	background-repeat: no-repeat;
+	margin-right:20px;
+	margin-top:30px
+}
+.main5con3{
+	width:400px;
+	height:300px;
+	background:#F8E2E3;
+	float:right;
+	margin-right:40px;
+	background-image:url("img/DSCF9363.JPG");
+	background-size: 451px;
+}
+.footer{
+	width:1480px;
+	height:200px;
+	background:#8C0303;
+	margin-top:20px;
+	padding-top:20px;
+	text-align: center;
+}
+.footer1{
+	width: 200px;
+	height:50px;
+/*	background: #FFFFFF;*/
+	margin:auto;
+}
+.footer1 img{
+	width:40px;
+}
+.footer1 a{
+	text-decoration: none;
+}
+.footer2{
+	width: 600px;
+	height:100px;
+/*	background:#FFFFFF;*/
+	margin:auto;
+	margin-top:10px;
+	text-align: center;
+}
+.footer2 h9{
+	font-size: 30px;
+	font-family:'Dela Gothic One', cursive;
+	color:#D9B29C;
+}
+.footer p{
+	font-size: 12px;
+	font-family: 'Nunito', sans-serif;
+	color:#D9B29C;
+	margin-top: 4px
+}
